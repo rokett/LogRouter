@@ -32,6 +32,6 @@ do_something.exe 2>&1 | logrouter.exe --input-format logfmt --output graylog --g
 
 All dependencies are version controlled, so building the project is really easy.
 
-1. Clone the repository locally.
+1. `go get github.com/rokett/logrouter`.
 2. From within the repository directory run `go build`.
 3. Hey presto, you have an executable.
