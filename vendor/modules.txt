@@ -1,0 +1,13 @@
+# github.com/aphistic/golf v0.0.0-20170705150145-4d95b0abb24e
+github.com/aphistic/golf
+# github.com/go-kit/kit v0.5.0
+github.com/go-kit/kit/log
+github.com/go-kit/kit/log/level
+# github.com/go-logfmt/logfmt v0.3.0
+github.com/go-logfmt/logfmt
+# github.com/go-stack/stack v1.6.0
+github.com/go-stack/stack
+# github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515
+github.com/kr/logfmt
+# github.com/satori/go.uuid v1.1.0
+github.com/satori/go.uuid
